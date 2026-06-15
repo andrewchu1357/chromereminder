@@ -1,15 +1,14 @@
 {
-    "manifest_version": 3,
-    "name": "BreakReminder",
-    "version": "1.0",
-    "description": "A simple reminder extension for chrome",
-    "permissions": [
-        "alarms",
-        "notifications",
-        "storage"
-    ],
-    "action": {
-        "defualt_popup": "popup.html"
-    }
-
+  "manifest_version": 3,
+  "name": "BreakReminder",
+  "version": "1.0",
+  "description": "A simple reminder extension for chrome",
+  "permissions": [
+    "alarms",
+    "notifications",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
 }
